@@ -1,0 +1,6 @@
+# Requirements for PowerPoint Presentation
+
+- python-pptx
+- pandas
+- matplotlib
+- numpy
